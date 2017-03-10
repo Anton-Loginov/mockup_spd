@@ -1,0 +1,20 @@
+
+@font-face {
+  font-family: 'Amble';
+  src: url('Amble-Regular.eot?#iefix') format('embedded-opentype'),  url('Amble-Regular.woff') format('woff'), url('Amble-Regular.ttf')  format('truetype'), url('Amble-Regular.svg#Amble-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'font-awesome';
+  src: url('font-awesome.eot?78022403');
+  src: url('font-awesome.eot?78022403#iefix') format('embedded-opentype'),
+  url('font-awesome.woff2?78022403') format('woff2'),
+  url('font-awesome.woff?78022403') format('woff'),
+  url('font-awesome.ttf?78022403') format('truetype'),
+  url('font-awesome.svg?78022403#font-awesome') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
